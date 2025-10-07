@@ -9,10 +9,10 @@ body {
 h1 {
     color: black;
     text-align: center;
-    margin-top: 80px; /* leaves room below top bar */
+    margin-top: 80px; /* lager rom under top bar */
 }
 
-/* --- TOP ICON BAR --- */
+/* --- TOP IKON BAR --- */
 .ikon-bar {
     overflow: hidden;
     background-color: #555;
@@ -43,7 +43,7 @@ h1 {
     color: white;
 }
 
-/* --- CENTER PROJECT LINKS --- */
+/* --- SENTRERT PROSJEKT LENKER --- */
 main {
     height: calc(100vh - 100px); /* full height minus top bar */
     display: flex;
