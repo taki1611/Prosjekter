@@ -12,6 +12,13 @@ h1 {
     margin-top: 80px; /* lager rom under top bar */
 }
 
+h2 {
+    color: #555;
+    text-align: center;
+    margin-top: 10px;
+    font-weight: normal;
+}
+
 /* --- TOP IKON BAR --- */
 .ikon-bar {
     overflow: hidden;
@@ -86,4 +93,6 @@ main {
     margin-top: 10px;
     color: #555;
 }
+
+
 
