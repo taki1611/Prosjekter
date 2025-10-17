@@ -46,11 +46,11 @@ It features:
 | # | Project Name | Description | Link |
 |---|---------------|--------------|------|
 | 1 | **Prosjekt 1** | Et kort sammendrag eller beskrivelse av prosjektet. | (https://github.com/taki1611/Prosjekter/blob/main/project1.html) |
-| 2 | **Prosjekt 2** | Dette kan være et annet prosjekt du har jobbet med. | (https://github.com/taki1611/Prosjekter/blob/main/project1.html) |
-| 3 | **Prosjekt 3** | Kanskje et skoleprosjekt eller noe personlig. | (https://github.com/taki1611/Prosjekter/blob/main/project1.html) |
-| 4 | **Prosjekt 4** | Kanskje et skoleprosjekt eller noe personlig. | (https://github.com/taki1611/Prosjekter/blob/main/project1.html)|
-| 5 | **Prosjekt 5** | Kanskje et skoleprosjekt eller noe personlig. | (https://github.com/taki1611/Prosjekter/blob/main/project1.html)|
-| 6 | **Prosjekt 6** | Kanskje et skoleprosjekt eller noe personlig. | (https://github.com/taki1611/Prosjekter/blob/main/project1.html) |
+| 2 | **Prosjekt 2** | Dette kan være et annet prosjekt du har jobbet med. | (https://github.com/taki1611/Prosjekter/blob/main/project2.html) |
+| 3 | **Prosjekt 3** | Kanskje et skoleprosjekt eller noe personlig. | (https://github.com/taki1611/Prosjekter/blob/main/project3.html) |
+| 4 | **Prosjekt 4** | Kanskje et skoleprosjekt eller noe personlig. | (https://github.com/taki1611/Prosjekter/blob/main/project4.html)|
+| 5 | **Prosjekt 5** | Kanskje et skoleprosjekt eller noe personlig. | (https://github.com/taki1611/Prosjekter/blob/main/project5.html)|
+| 6 | **Prosjekt 6** | Kanskje et skoleprosjekt eller noe personlig. | (https://github.com/taki1611/Prosjekter/blob/main/project6.html) |
 
 ---
 
