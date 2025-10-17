@@ -45,8 +45,8 @@ It features:
 
 | # | Project Name | Description | Link |
 |---|---------------|--------------|------|
-| 1 | **Prosjekt 1** | Et kort sammendrag eller beskrivelse av prosjektet. | [[Open Project](https://github.com/taki1611/Prosjekter/blob/main/project1.html)](#) |
-| 2 | **Prosjekt 2** | Dette kan være et annet prosjekt du har jobbet med. | [Open Project ](https://github.com/taki1611/Prosjekter/blob/main/project2.html)](#) |
+| 1 | **Prosjekt 1** | Et kort sammendrag eller beskrivelse av prosjektet. | [Open Project](#) |
+| 2 | **Prosjekt 2** | Dette kan være et annet prosjekt du har jobbet med. | [Open Project](#) |
 | 3 | **Prosjekt 3** | Kanskje et skoleprosjekt eller noe personlig. | [Open Project](#) |
 | 3 | **Prosjekt 4** | Kanskje et skoleprosjekt eller noe personlig. | [Open Project](#) |
 | 3 | **Prosjekt 5** | Kanskje et skoleprosjekt eller noe personlig. | [Open Project](#) |
